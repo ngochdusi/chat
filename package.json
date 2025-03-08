@@ -60,10 +60,10 @@
     "zod": "^3.24.1",
     "@types/react": "latest",
     "pg-native": "latest",
-    "uuid": "latest",
-    "bcryptjs": "latest",
     "fs": "latest",
     "path": "latest",
+    "uuid": "latest",
+    "bcryptjs": "latest",
     "pg": "latest"
   },
   "devDependencies": {
